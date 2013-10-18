@@ -7,4 +7,4 @@ Some important updates may appear!
 Feel free to fork this git! :)
 
 Best regards
-Mateusz D¹brosz
+Mateusz Dabrosz
